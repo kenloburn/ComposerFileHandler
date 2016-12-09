@@ -1,0 +1,20 @@
+{
+    "name": "habuio/composer-file-manager",
+    "description": "Composer script to be used in conjunction with 'create-project' composer command to interactively update composer.json values",
+    "license": "BSD 3-Clause License",
+    "authors": [
+        {
+            "name": "Ruben Knol",
+            "email": "c.minor6@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">5.5",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "HabuIO\\ComposerFileHandler\\": "lib"
+        }
+    }
+}
