@@ -1,5 +1,5 @@
 {
-    "name": "habuio/composer-file-manager",
+    "name": "habuio/composer-file-handler",
     "description": "Composer script to be used in conjunction with 'create-project' composer command to interactively update composer.json values",
     "license": "BSD 3-Clause License",
     "authors": [
